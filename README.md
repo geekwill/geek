@@ -1,5 +1,6 @@
 # geek
-hexo theme
+
+hexo theme [Demo](http://www.geekcode.me)
 
 主题默认是用ejs模板，采用了sass，所以需要另外安装hexo-renderer-sass
 
